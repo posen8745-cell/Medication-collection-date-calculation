@@ -1,0 +1,11 @@
+{
+  "issue": "114/12/25",
+  "fill1": "",
+  "fill2": "",
+  "days": 30,
+  "valid_days": 90,
+  "mode": "pharmacist",
+  "h_enable": true,
+  "h_start": "115/2/14",
+  "h_end": "115/2/22"
+}
